@@ -140,7 +140,7 @@ header p{
 }
 .main2 h2{
 	line-height: 1.4rem;
-	height: 45px;
+	height: 1.125rem;
 	text-align: center;
 	font-size: 1.05rem;
 	color: #f4fc7b;
@@ -154,9 +154,7 @@ header p{
 	display: inline-block;
 	margin-left: 0.125rem;
 	width: 0.925rem;
-	height: 1.125rem;
 	text-align: center;
-	line-height: 1.15rem;
 	background: #1c4279;
 }
 .m2_p1{
