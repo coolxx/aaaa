@@ -143,6 +143,9 @@ header p{
 	font-size: 1.05rem;
 	color: #f4fc7b;
 }
+.main2 h2 strong{
+	font-size: 46px;
+}
 .main2 h2 span{
 	background: #1c4279;
 	margin: 0 0.05rem;
