@@ -142,13 +142,11 @@ header p{
 	text-align: center;
 	font-size: 1.05rem;
 	color: #f4fc7b;
-	height: 1.15rem;
-	line-height: 1.35rem;
 }
 .main2 h2 span{
 	background: #1c4279;
 	margin: 0 0.05rem;
-	padding: 0.2rem 0.2rem 0;
+	padding: 2rem 0.2rem 0;
 }
 .m2_p1{
 	font-size: 0.7rem;
