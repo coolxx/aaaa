@@ -140,13 +140,15 @@ header p{
 }
 .main2 h2{
 	line-height: 1.4rem;
+	height: 45px;
 	text-align: center;
 	font-size: 1.05rem;
 	color: #f4fc7b;
 	height: 1.4rem;
 }
 .main2 h2 strong{
-	font-size: 1.35rem;
+	line-height: 1.4rem;
+	height: 1.4rem;
 }
 .main2 h2 span{
 	display: inline-block;
