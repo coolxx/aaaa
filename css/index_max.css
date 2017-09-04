@@ -144,12 +144,13 @@ header p{
 	font-size: 54px;
 }
 .main2 h2 span{
-	background: #1c4279;
 	display: inline-block;
 	margin-left: 5px;
-	padding: 0 5px;
-	color: #f4fc7b;
-	line-height: 56px;
+	width: 37px;
+	height: 45px;
+	text-align: center;
+	line-height: 46px;
+	background: url(../images/m113.png) no-repeat center;
 }
 .m2_p1{
 	font-size: 28px;
